@@ -1,11 +1,9 @@
-<h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Hugo Lee
-</h1>
-
-<h3 align="center">Fullstack Developer in Progress</h3>
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Hugo Lee GitHub Banner" width="100%" />
+</p>
 
 <p align="center">
-  Building web applications with product thinking, clean architecture, and scalable system design.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+SaaS+and+CMS+systems;Learning+React+%E2%80%A2+TypeScript+%E2%80%A2+.NET+%E2%80%A2+SQL+Server;Focused+on+RBAC+%E2%80%A2+Multi-tenant+%E2%80%A2+Clean+Architecture" alt="Typing SVG" />
 </p>
 
 ---
