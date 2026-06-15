@@ -23,21 +23,6 @@
 - CMS / Digital Publishing Systems
 - AI-assisted Development
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/HugoLee12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HugoLee12&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="HugoLee12's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=HugoLee12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hugo Lee's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=HugoLee12&theme=tokyonight&radius=10" alt="HugoLee12's Activity Graph" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
