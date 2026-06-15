@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - 🌱 I'm currently learning Fullstack Web Development with React, TypeScript, .NET, and SQL
 - 🤝 I'm looking to collaborate on real-world web applications and SaaS projects
