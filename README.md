@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/github-banner.png" alt="Hugo Lee GitHub Banner" width="100%" />
-</p>
-
 <h1 align="center">
   Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Hugo Lee
 </h1>
